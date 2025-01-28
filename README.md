@@ -21,24 +21,30 @@ Each project is accompanied by its own documentation, explaining how the project
   Description: 
     A GUI built with PySide6 that allows you to add and remove (multiple at once) movies, with a local database.
     
-  Tech : Pyside6, Json
+  > Tech : Pyside6, Json
 
 
    
  ![Cinéma_Club_aLGqzxmQFk](https://github.com/user-attachments/assets/87def225-067e-4181-849b-2623149742ca)
  ![Cinéma_Club_0HAUC3JKEh](https://github.com/user-attachments/assets/b157ddbc-9ef5-4978-852c-2a9cbaacac3d)
 
-<!--
-**H-Etien/H-Etien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+2. [Dashboard Currencies]( https://github.com/H-Etien/Dashboard_Currency )
 
-Here are some ideas to get you started:
+Description:
+   A Django web application that visualizes currency exchange rates with a trendline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Tech : Django, Django RestFramework and Chart.js (Python & Javascript)
+
+![chrome_nu9u9FfS7o](https://github.com/user-attachments/assets/39865e90-0a47-448f-8558-04fa86e0e586)
+
+---
+
+3. [Movie App]( https://github.com/H-Etien/Movie-App )
+
+Description:
+   A web app built with React that fetches most popular movie data from an API.
+
+> Tech : React & Javascript
+
+![image](https://github.com/user-attachments/assets/d5849c50-89b0-4d79-a5cf-c81899bb63a5)
